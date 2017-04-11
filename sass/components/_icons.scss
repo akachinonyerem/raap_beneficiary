@@ -1,0 +1,60 @@
+.svg {
+    display: inline-block;
+    height: 48px;
+    width: 48px;
+
+    &--small {
+        height: 12px;
+        width: 12px;
+    }
+
+    &--large {
+        height: 72px;
+        width: 72px;
+    }
+}
+
+.svg--beneficiary {
+    background: url("../images/icons/sprite.svg") 0 0 no-repeat;
+}
+
+.svg--beneficiary-dims {
+    width: 20px;
+    height: 16px;
+}
+
+.svg--report {
+    background: url("../images/icons/sprite.svg") 54.054054054054056% 94.44444444444444% no-repeat;
+}
+
+.svg--report-dims {
+    width: 15px;
+    height: 15px;
+}
+
+.svg--requests {
+    background: url("../images/icons/sprite.svg") 0 100% no-repeat;
+}
+
+.svg--requests-dims {
+    width: 17px;
+    height: 17px;
+}
+
+.svg--settings {
+    background: url("../images/icons/sprite.svg") 57.142857142857146% 0 no-repeat;
+}
+
+.svg--settings-dims {
+    width: 17px;
+    height: 17px;
+}
+
+.svg--sign-out {
+    background: url("../images/icons/sprite.svg") 100% 0 no-repeat;
+}
+
+.svg--sign-out-dims {
+    width: 15px;
+    height: 13px;
+}

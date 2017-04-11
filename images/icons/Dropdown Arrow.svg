@@ -1,0 +1,12 @@
+<svg width="10" height="6" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Dropdown Arrow</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3899 -4356)" figma:type="canvas">
+<g id="Dropdown Arrow" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(1.83697e-16 -1 -1 -1.83697e-16 3908.58 4361.45)" fill="#3BB75E"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 5.39062 8.05322L 4.49072 8.95337L 0.899902 5.35962L 0.03125 4.49365L 0 4.45972L 4.45947 0L 5.35938 0.900146L 1.79834 4.46094L 5.39062 8.05322Z"/>
+</defs>
+</svg>

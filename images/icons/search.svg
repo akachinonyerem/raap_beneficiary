@@ -1,0 +1,18 @@
+<svg width="12" height="12" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>search</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1665 -5372)" figma:type="canvas">
+<g id="search" figma:type="frame">
+<g id="Line" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(1671.93 5379.43)" fill="#09A5DB"/>
+</g>
+<g id="Oval" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="translate(1665.5 5373)" fill="#09A5DB"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0.710696 0.00358948L 0.357143 -0.349964L -0.349964 0.357143L 0.00358948 0.710696L 0.710696 0.00358948ZM 3.21788 3.92498L 3.57143 4.27854L 4.27854 3.57143L 3.92498 3.21788L 3.21788 3.92498ZM 0.00358948 0.710696L 3.21788 3.92498L 3.92498 3.21788L 0.710696 0.00358948L 0.00358948 0.710696Z"/>
+<path id="path1_stroke" d="M 3.92857 8.35714C 6.3744 8.35714 8.35714 6.3744 8.35714 3.92857L 7.35714 3.92857C 7.35714 5.82212 5.82212 7.35714 3.92857 7.35714L 3.92857 8.35714ZM 8.35714 3.92857C 8.35714 1.48274 6.3744 -0.5 3.92857 -0.5L 3.92857 0.5C 5.82212 0.5 7.35714 2.03502 7.35714 3.92857L 8.35714 3.92857ZM 3.92857 -0.5C 1.48274 -0.5 -0.5 1.48274 -0.5 3.92857L 0.5 3.92857C 0.5 2.03502 2.03502 0.5 3.92857 0.5L 3.92857 -0.5ZM -0.5 3.92857C -0.5 6.3744 1.48274 8.35714 3.92857 8.35714L 3.92857 7.35714C 2.03502 7.35714 0.5 5.82212 0.5 3.92857L -0.5 3.92857Z"/>
+</defs>
+</svg>
