@@ -1,0 +1,6 @@
+.DS_store
+package.json
+/node_modules
+gulpfile.js
+Thumbs.db
+/js/y.js
